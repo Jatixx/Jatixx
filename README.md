@@ -35,7 +35,7 @@ I am a Data Science graduate student with a focus on Artificial Intelligence. I 
 ## Connect With Me
 
 - 📫 Email: tietzjan03@gmail.com
-- 💼 LinkedIn: [Jan Tietz](https://linkedin.com)
+- 💼 LinkedIn: [Jan Tietz](https://linkedin.com](https://www.linkedin.com/in/jan-tietz-636a01296/))
 
 ---
 
